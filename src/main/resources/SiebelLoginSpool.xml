@@ -1,0 +1,18 @@
+<Chaves>
+	<ChaveSiebel>
+		<NomeChave>ConfigSiebelExposicaoServicos</NomeChave>
+		<URL>/framework/start.swe</URL>
+		<Server>crmhw07.oi.corp.net</Server>
+		<Port>80</Port>
+		<SWEExtSource>OiFrmEAI</SWEExtSource>
+		<MaxSessions>5</MaxSessions>
+		<Timeout>35000</Timeout>
+		<MaxInvalidate>1</MaxInvalidate>
+		<UserName>pcsvitria</UserName>
+		<Password>vitpcs</Password>
+		<ConnectionTimeout>10000</ConnectionTimeout>
+		<ReadTimeout>10000</ReadTimeout>
+		<TTL_Minutes>30</TTL_Minutes>
+	</ChaveSiebel>
+</Chaves>
+
